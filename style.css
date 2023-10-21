@@ -1,0 +1,10 @@
+.binary-container {
+    width: 400px;
+    overflow: hidden;
+}
+
+.binary-data {
+    font-size: 24px;
+    white-space: nowrap;
+    display: inline-block;
+}
